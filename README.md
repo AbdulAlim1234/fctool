@@ -19,7 +19,7 @@ Download zip or git clone link:<br/>
 >>cd fctool <br/>
 >>pip install -r package<br/>
 >>python fctool.py</b><br/><br/>
-
+>> Enter Any Access Token <dont tell me how to generate fb tokens😑><br/>
 >>Enter Facebook USER ID (E.g: 100077482805874)
 
 >><b>Send Issues</b>: <a href="https://facebook.com/josif404k">Click Here</a><br/>
